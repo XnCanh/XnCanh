@@ -22,6 +22,6 @@ I am a final-year **Information Technology** student at **Sai Gon University (SG
 * ⚡ **Core focus:** Performance optimization, RESTful API development, and UI/UX responsive design.
 
 ### 📫 Let's connect:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([https://www.facebook.com/truongxuan.canh.5](https://www.facebook.com/XnCanh2411/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/XnCanh2411/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/xncanh/](https://www.linkedin.com/in/xu%C3%A2n-c%E1%BA%A3nh-tr%C6%B0%C6%A1ng-489143402/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://xncanh-portfolio.vercel.app/)
